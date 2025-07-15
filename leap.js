@@ -1,10 +1,7 @@
-const a=5
-const b=9
-if(a<b)
-{
-    console.log("b is bigger")
+const year=2020
+if (year%4==0){
+    console.log("is leap year")
 }
-else
-{
-    console.log("a is bigger")
+else{
+    console.log("not leap year")
 }
