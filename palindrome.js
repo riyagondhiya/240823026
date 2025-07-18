@@ -1,5 +1,4 @@
 function isPalindrome(num) {
-    // Negative numbers are not palindromes
     if (num < 0) { 
       return false;
     }
