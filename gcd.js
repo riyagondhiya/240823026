@@ -6,4 +6,4 @@ function gcd(a, b) {
     }
     return a;
   }
-  console.log(gcd(20,28));
+  console.log(gcd(28,9));
